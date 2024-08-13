@@ -21,7 +21,7 @@ Well, DTR is just a way of making Aria2 **easy to use** by only needing to **put
 
 ![Put the torrent file in the same folder as DTR.exe and deps . Then, open DTR.exe , wait , and put the torrent file (without the .torrent) in and press enter ](https://raw.githubusercontent.com/stratosvomvos/DTR/main/S2.png)
 
-**Put the torrent file in the same folder as DTR.exe and deps** . **Then, open DTR.exe , wait , and put the torrent file (without the** .**torrent**) **in** **and** **press enter!**
+**Put the torrent file in the same folder as DTR.exe and deps** . **Then, open DTR.exe , wait , and put the torrent file's name (without the** .**torrent**) **in** **and** **press enter!**
 
 
 **3) (Last Step)**
