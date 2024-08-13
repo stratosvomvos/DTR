@@ -1,4 +1,4 @@
-# Welcome to DTR!
+## Welcome to DTR!
 
 Hi! I'm **Stratosvomvos** , I made this simple app to download torrents easier!
 
@@ -27,11 +27,11 @@ Well, DTR is just a way of making Aria2 **easy to use** by only needing to **put
 **3) (Last Step)**
 
 ![Wait until program ends ( shows this) , and press ay key to exit.](https://raw.githubusercontent.com/stratosvomvos/DTR/main/S3.png)
-**Wait until program ends ( shows this) , and press ay key to exit**
+**Wait until program ends ( shows this) , and press any key to exit**
 
 
 **Congrats!**, you have successfully downloaded a torrent with DTR!!!!
 
 ## Will DTR get proper GUI?
 
-Maybe, but not soon!!
+Maybe, when i get it working wothout bugs !
