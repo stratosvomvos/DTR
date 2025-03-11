@@ -5,7 +5,7 @@ Hi! I'm **Stratosvomvos** , I made this simple app to download torrents easier!
 
 # Why
 
-Well, torrenting software such as Mtorrent installs stuff on your computer (RAV antivirus) and doesn't let you do much without paying, while stuff like aria2 is very **Fast** and **works without paying** but its command-line based so its hard to use! :(
+Well, torrenting software such as Mtorrent is pretty cluttered while stuff like aria2 is very **Fast** and **works faster** but its command-line based so its hard to use! :(
 
 ## What does DTR do then? 
 Well, DTR is just a way of making Aria2 **easy to use** by only needing to **put the torrent name** and just **pressing enter!**
